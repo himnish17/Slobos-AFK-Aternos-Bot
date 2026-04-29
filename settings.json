@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "Lolu Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "MrLolu",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "LOLUHAT_Official.aternos.me",
     "port": 49891,
-    "version": "26.1.2",
+    "version": "1.21.11",
     "try-creative": true
   },
   "position": {
